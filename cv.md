@@ -8,7 +8,7 @@
 - **Phone:**  +998 99 878 09 41 
 - **E-mail:**  farruh020202@gmail.com
 - **Telegram:**  @inshadow_099
-[LinkedIn](https://www.linkedin.com/in/farruh-adhamov-3a640221a/)  
+- [LinkedIn](https://www.linkedin.com/in/farruh-adhamov-3a640221a/)  
 
 -----
 ### Briefly About Myself:[]()
