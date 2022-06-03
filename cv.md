@@ -11,7 +11,7 @@
 [LinkedIn](https://www.linkedin.com/in/farruh-adhamov-3a640221a/)  
 
 -----
-### Briefly About Myself:
+### Briefly About Myself:[]()
 Hello, my name is Farrux Adhamov, born in 2002. I am a self-study programmer. I am studying at RS-School, I did an internship at the outsourcing company Udevs. I work well in a team, I quickly learn everything new, I am a responsible and punctual person.
 
 -----
@@ -28,13 +28,13 @@ Hello, my name is Farrux Adhamov, born in 2002. I am a self-study programmer. I 
 const parity = (num) => num % 2 === 0 ? alert('even number') : alert('odd number');
 ```
 -----
-### Education
+### Education:[]()
 - National University of Uzbekistan
-- Udemy
->> - [JavaScript](https://www.udemy.com/course/javascript-full-guide/)
->> - [React.js](https://www.udemy.com/course/react-from-scratch/?src=sac&kw=react+%D1%81)
+- **Udemy**
+   -   [JavaScript](https://www.udemy.com/course/javascript-full-guide/)
+   -   [React.js](https://www.udemy.com/course/react-from-scratch/?src=sac&kw=react+%D1%81)
 -----
-### Languages
+### Languages:[]()
 - Uzbek (native speaker)
 - Russian (C1)
 - English (A2)
